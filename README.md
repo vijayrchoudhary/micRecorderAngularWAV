@@ -1,6 +1,6 @@
 # Install
 
-npm i recordrtc
+`npm i recordrtc`
 
 # MicRecorder
 
