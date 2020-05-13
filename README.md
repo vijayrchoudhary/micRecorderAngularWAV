@@ -1,4 +1,4 @@
-# Inctall
+# Install
 
 npm i recordrtc
 
